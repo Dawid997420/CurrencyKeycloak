@@ -1,0 +1,20 @@
+body {
+    font-size: 20px;
+    text-align: center;
+}
+
+.login-pf body {
+    background: DimGrey none;
+}
+
+#kc-social-providers {
+
+}
+
+label {
+     
+}
+
+#username {
+    margin-left: 0px;
+}
